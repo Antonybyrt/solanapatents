@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { Geist } from "next/font/google";
 import SolanaWalletConnect from "../components/SolanaWalletConnect";
 
